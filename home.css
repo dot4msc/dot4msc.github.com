@@ -1,0 +1,14 @@
+main {
+  margin-bottom: 100px;
+}
+.logo-image {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+.subtitle {
+  text-align: center;
+  color:#a8ffbf;
+  font-weight: 400;
+}

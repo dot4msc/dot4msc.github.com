@@ -1,0 +1,32 @@
+main {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.music-title {
+  font-weight: 500;
+  color: #a8ffbf;
+}
+
+.releases {
+  color: #a8ffbf;
+  margin-top: 60px;
+}
+
+.release {
+  background: rgb(27, 58, 75, 0.4);
+  padding: 1.5rem;
+  width: 45%;
+  border-radius: 1rem;
+  display: inline-block;
+  box-shadow: 0 0 20px #023d2c4d;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  margin-right: 48px;
+}
+
+.release:hover{
+  transform: translateY(-4px);
+  box-shadow:
+    0 0 15px rgba(168, 255, 191, 0.4),
+    0 0 30px rgba(168, 255, 191, 0.2),
+    0 6px 8px rgba(0, 0, 0, 0.5);
+}
