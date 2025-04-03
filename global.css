@@ -49,6 +49,11 @@ header {
   text-shadow: 0 0 5px #a8ffbf;
 }
 
+main {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
 footer {
   position: absolute;
   left: 0;
